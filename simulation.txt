@@ -1,0 +1,9 @@
+Battlefield : 10 20
+steps: 10
+robots: 6
+Madbot Kidd
+RoboTank Jet
+Terminator Alpha
+BlueThunder Beta
+RoboCop Star
+RoboCop Flash
